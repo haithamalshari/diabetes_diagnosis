@@ -5,5 +5,7 @@ We are developing a method to diagnose diabetes with the help of machine learnin
 
 # Dataset
 The dataset that we will use is been collected from 6 waves of the National Health and Nutrition Examination Survey: 2007-2008, 2009-2010, 2011-2012, 2013-2014, 2015-2016, and 2017-2018.
+
 https://wwwn.cdc.gov/nchs/nhanes/Default.aspx
+
 The combined dataset is consisting of 30 features and 55939 observations and all values of the dataset have been coded in numerical form. 
