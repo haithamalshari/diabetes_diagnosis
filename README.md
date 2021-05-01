@@ -1,4 +1,3 @@
-# diabetes_diagnosis
 # PREDICTING OF THE DIABETES BASED ON HEALTH BEHAVIOR WITH MACHINE LEARNING TECHNIQUES
 
 We are developing a method to diagnose diabetes with the help of machine learning algorithms and tools. The proposed method utilizes the power of machine learning to create a model that can predict diabetes based on the health behaviors of the patient. The model makes use of the relationship between a healthy lifestyle and diabetes, a healthy lifestyle helps prevent diabetes and the opposite holds true. This relationship has been supported by many studies. Our goal is to build a machine learning model with adequate accuracy to predict diabetes which will help significantly in easing and speed up the diagnosing procedure of diabetes. We used relatively new machine learning algorithms to build the model namely: the top three Gradient Boosting algorithms XGBoost, LightGBM, CatBoost, and Artificial Neural Networks. 
